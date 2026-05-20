@@ -1,3 +1,4 @@
+# Function with keyword arbitrary argument
 def data(**kwargs):
     print(type(kwargs))
     print(kwargs.keys())
